@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathankd9
+- 👋 Hi, I’m Jonathan Kofi Donkor.
 - 👀 I’m interested in being a full stack developer.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Front-end projects.
