@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a full stack developer.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Front-end projects. My website: https://jonathankd9.netlify.app/
-- 📫 How to reach me Twitter @jonathankd9
+- 📫 How to reach me Twitter @jonathankd9, Whatsapp: +233271673562
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathankd9&theme=gruvbox_duo)](https://git.io/streak-stats)
 <!---
