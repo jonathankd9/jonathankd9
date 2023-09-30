@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new and recent technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm studied Information Technology at the University of Ghana, Legon.\
+🎓 &nbsp;I studied Information Technology at the University of Ghana, Legon.\
 🌱 &nbsp;I'm on track to master Advanced Frontend Technlogies.\
 ✍️ &nbsp;In my free time, I write on Blogs and create products as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
