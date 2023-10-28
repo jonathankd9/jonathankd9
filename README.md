@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I write on Blogs and create products as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jkd6735[at]gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://jonathankd9.netlify.app/) built with Reactjs/Tailwind.
+📄 &nbsp;Please have a look at my [Website](https://jonathankd9.vercel.app/) built with Reactjs/Tailwind.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
