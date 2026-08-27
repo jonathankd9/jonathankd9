@@ -39,7 +39,13 @@ I am currently improving my skills in WordPress customization, frontend developm
 
 I have worked on websites across e-commerce, education, legal, healthcare, and content-based businesses. Some of my project experience includes WordPress development, WooCommerce setup, SEO improvements, content updates, website maintenance, and responsive design fixes.
 
+## Portfolio
+
+You can view my portfolio here:
+
+[https://jonathankd9.vercel.app/](https://jonathankd9.vercel.app/)
+
 ## Contact
 
-- Portfolio: jonathankd9.vercel.app
+- Portfolio: [jonathankd9.vercel.app](https://jonathankd9.vercel.app/)
 - Location: Ghana
