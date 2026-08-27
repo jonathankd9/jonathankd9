@@ -2,8 +2,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jonathan Kofi Donkor</h2>
 
-# Hi, I'm Jonathan Kofi Donkor
-
 I am a Web Developer from Ghana with experience building and managing WordPress websites, WooCommerce stores, landing pages, and SEO-focused business websites.
 
 My work mainly focuses on creating clean, responsive, and easy-to-manage websites for e-commerce brands, education platforms, healthcare businesses, legal services, and professional service companies.
@@ -43,5 +41,5 @@ I have worked on websites across e-commerce, education, legal, healthcare, and c
 
 ## Contact
 
-- Email: jonathankd9@gmail.com
+- Portfolio: jonathankd9.vercel.app
 - Location: Ghana
